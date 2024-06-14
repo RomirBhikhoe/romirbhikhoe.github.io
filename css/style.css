@@ -1,3 +1,7 @@
 body {
     background-image: linear-gradient(to bottom, #F7EFCF, #FFBE5A);
 }
+
+.footer {
+    background-color: #F7EFCF;
+}
